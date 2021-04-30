@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'Lobster 1.4';
+	src: url('../fonts/3952.ttf');
+		font-weight: 300;
+		font-style: normal;
+	}
+
+@font-face {
+	font-family: 'Open Sans' sans-serif;
+	src: url('../fonts/OpenSans-Light.ttf');
+		font-weight: 300;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans' sans-serif;
+	src: url('../fonts/OpenSans-Regular.ttf');
+		font-weight: 400;
+		font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans' sans-serif;
+	src: url('../fonts/OpenSans-SemiBold.ttf');
+		font-weight: 600;
+		font-style: normal;
+}
